@@ -17,8 +17,10 @@ If you've ever heard about **[YouTube Background Playback](https://github.com/py
 
 <br clear="left"/>
 <h1>Find me here</h1>
-<style type="text/css">
-    .text{font-size: 30px; margin-left: 5px; vertical-align: top; line-height: 40px}
+
+<style 
+  type="text/css">
+    .text {font-size: 30px; margin-left: 5px; vertical-align: top; line-height: 40px}
     div#contact a {display: block; line-height: 40px;}
 </style>
 
