@@ -25,4 +25,4 @@ If you've ever heard about **[YouTube Background Playback](https://github.com/py
 | Twitter  | [Th3An7](https://twitter.com/Th3An7)                                     |
 | Facebook | [Th3Ant](https://www.facebook.com/Th3Ant/)                               |
 | LinkedIn | [Łukasz Ordon](https://www.linkedin.com/in/lukaszordon/)                 |
-| Discord  | Th3Ant#9411                                                              |
+| Discord  | [Th3Ant#9411](https://discord.com/users/215285737422192640)              |
