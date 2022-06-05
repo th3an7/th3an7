@@ -13,14 +13,14 @@ Sometimes funny, more often annoying <br>
   <img align="left" alt="My GitHub stats" src="https://github-readme-stats.vercel.app/api?username=th3an7&hide=stars&show_icons=true&hide_border=true&theme=github_dark" />
 </a>
 <a href="https://discord.com/users/215285737422192640">
-  <img align="right" alt="My Discord Status" src="https://lanyard.cnrad.dev/api/215285737422192640?&bg=0D1117&borderRadius=0px&animated=true&idleMessage=NO%20STATUS" />
+  <img align="left" alt="My Discord Status" src="https://lanyard.cnrad.dev/api/215285737422192640?&bg=0D1117&borderRadius=0px&animated=true&idleMessage=NO%20STATUS" />
 </a>
 <br clear="left">
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=th3an7&layout=compact&hide=python&hide_border=true&theme=github_dark">
   <img align="left" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=th3an7&layout=compact&hide=python&hide_border=true&theme=github_dark" />
 </a>
 <a href="https://spotify-github-profile.vercel.app/api/view?uid=th3ant&redirect=true">
-  <img align="right" alt="Recently listened on Spotify" src="https://spotify-github-profile.vercel.app/api/view?uid=th3ant&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=true" />
+  <img align="left" alt="Recently listened on Spotify" src="https://spotify-github-profile.vercel.app/api/view?uid=th3ant&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=true" />
 </a>
 
 <br clear="left">
@@ -33,4 +33,3 @@ Sometimes funny, more often annoying <br>
 | Twitter  | [Th3An7](https://twitter.com/Th3An7)                                     |
 | Facebook | [Th3Ant](https://www.facebook.com/Th3Ant/)                               |
 | LinkedIn | [Łukasz Ordon](https://www.linkedin.com/in/lukaszordon/)                 |
-| Discord  | [Th3Ant#9411](https://discord.com/users/215285737422192640)              |
