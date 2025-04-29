@@ -1,7 +1,7 @@
 ### Welcome 🙋‍♂️
 
 # About me
-I'm 28 year old Pole who constantly thinking about stuff he can't do... <br>
+I'm 29 year old Pole who constantly thinking about stuff he can't do... <br>
 Hardcore gamer, not so hardcore coder 🤣 <br>
 Sometimes funny, more often annoying <br>
 
